@@ -14,4 +14,4 @@ let target = 9;
 
 const result = findTwoSum(arr, target);
 
-console.log(result);
+console.log(result); 
